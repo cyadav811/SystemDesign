@@ -1,4 +1,4 @@
-package com.systemDesign.creational.singleton;
+package com.systemdesign.creational.singleton;
 
 public class DataBaseConnection {
 	

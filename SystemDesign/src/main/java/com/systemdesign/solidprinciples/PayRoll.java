@@ -1,4 +1,4 @@
-package com.systemDesign.solidprinciples;
+package com.systemdesign.solidprinciples;
 
 import java.util.Map;
 import java.util.HashMap;
@@ -43,6 +43,8 @@ class PartTimeTaxCal implements TaxCal{
 	@Override
 	public double calculateTax(Employe emp) {
 		double salary = emp.getSalary();
+		return 0.0;
+		
 		 
 	}
 	

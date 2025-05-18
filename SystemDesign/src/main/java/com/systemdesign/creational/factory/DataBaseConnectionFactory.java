@@ -1,4 +1,4 @@
-package com.systemDesign.creational.factory;
+package com.systemdesign.creational.factory;
 
 import java.util.HashMap;
 import java.util.LinkedHashMap;

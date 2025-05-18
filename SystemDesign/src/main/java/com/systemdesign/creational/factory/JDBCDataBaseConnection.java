@@ -1,5 +1,5 @@
 
-package com.systemDesign.creational.factory;
+package com.systemdesign.creational.factory;
 
 public class JDBCDataBaseConnection implements DataBaseConnection{
 	 public final String name;

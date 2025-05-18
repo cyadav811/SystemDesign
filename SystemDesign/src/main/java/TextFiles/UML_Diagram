@@ -1,0 +1,54 @@
+UML Diagrams 
+__________________________________
+
+It is a modeling language that can be used for variety of purposes. The primary goal of UML is to establish a standard 
+way to visualize how a system has been constructed. It is very similar to blueprints used in other engineering professionals.(Graphical 
+Modeling language)
+
+It specifies visualize, builds and documents the software system artifacts. It is a visual language used to depict the behavior 
+and structure of a system. 
+
+UML facilitates modeling, design and analysis for software developers business owners and system architects.Business people does not 
+understand code so UML becomes a vital component. 
+
+Types of the UML Diagram : 
+1. Behavioral Diagram : 
+-----Use Case Diagram
+-----Activity Diagram
+2. Structural Diagram.
+-----Class Diagram 
+-----Component Diagram
+
+
+Use Case Diagram : A use case diagram represent a high level functions and scope of a system. The diagram also identify the interactions 
+between the system and its actors. The actor in the use case diagram describes what the system does and how actors use it. 
+but not how the system operates internally. It serves as a blueprint for understanding the functional requirement of a system from
+ a users prospective. 
+ 
+ Actor : External Entities : users, other systems, hardware devices, Actor initiates a use case and receive outcome.
+ Use Cases : Use cases are the Scenes in the play. The represents specific things your system can do. 
+ System Boundaries : System boundaries are visual representation of the scope or limits of the system you are modeling. 
+ 
+ Relationship in Use Case Diagram : 
+ Association :  Interaction between the actor and use case. 
+ Include Relationship : A use case includes functionality of another use case. 
+ Extend Relationship : A use case can be extended by another use case under specific condition. 
+ Generalized Relationship : One use case is specialized version of another. 
+ Rent Vechile ->>>>> Rent Car , Rent Bike. 
+ 
+ 
+ How to Draw a use case diagram ->> Identify the actor-->> Define Relationship-->>> Review And Refine-->> Validate...
+ 
+ 
+ 
+ Class Diagram : 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+

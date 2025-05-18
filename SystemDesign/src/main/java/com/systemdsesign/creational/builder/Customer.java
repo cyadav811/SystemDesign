@@ -1,4 +1,4 @@
-package com.systemDesign.creational.builder;
+package com.systemdsesign.creational.builder;
 
 public class Customer {
 	
@@ -45,11 +45,11 @@ public class Customer {
 	
 	
 	public static void main(String... args) {
-		 Customer cust = new Customer.Builder()
-	                .setEmail("dd")
-	                .setId(111)
-	                .setName("chandra")
-	                .build(); 
+//		 Customer cust = new Customer.Builder()
+//	                .setEmail("dd")
+//	                .setId(111)
+//	                .setName("chandra")
+//	                .build(); 
 	}
 
 }

@@ -1,4 +1,4 @@
-package com.systemDesign.solidprinciples;
+package com.systemdesign.solidprinciples;
 
 import java.util.HashMap;
 import java.util.Map;
