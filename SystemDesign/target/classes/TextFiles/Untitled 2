@@ -1,0 +1,133 @@
+s𝐄𝐚𝐬𝐲
+1. Design URL Shortener like TinyURL
+2. Design Text Storage Service like Pastebin
+3. Design Content Delivery Network (CDN)
+4. Design Parking Garage
+5. Design Vending Machine
+6. Design Distributed Key-Value Store
+7. Design Distributed Cache
+8. Design Distributed Job Scheduler
+9. Design Authentication System
+10. Design Unified Payments Interface (UPI)
+
+𝐌𝐞𝐝𝐢𝐮𝐦
+11. Design Instagram
+12. Design Tinder
+13. Design WhatsApp
+14. Design Facebook
+15. Design Twitter
+16. Design Reddit
+17. Design Netflix
+18. Design Youtube
+19. Design Google Search
+20. Design E-commerce Store like Amazon
+21. Design Spotify
+22. Design TikTok
+23. Design Shopify
+24. Design Airbnb
+25. Design Autocomplete for Search Engines
+26. Design Rate Limiter
+27. Design Distributed Message Queue like Kafka
+28. Design Flight Booking System
+29. Design Online Code Editor
+30. Design Stock Exchange System
+31. Design an Analytics Platform (Metrics & Logging)
+32. Design Notification Service
+33. Design Payment System
+
+𝐇𝐚𝐫𝐝
+34. Design Location Based Service like Yelp
+35. Design Uber
+36. Design Food Delivery App like Doordash
+37. Design Google Docs
+38. Design Google Maps
+39. Design Zoom
+40. Design File Sharing System like Dropbox
+41. Design Ticket Booking System like BookMyShow
+42. Design Distributed Web Crawler
+43. Design Code Deployment System
+44. Design Distributed Cloud Storage like S3
+45. Design Distributed Locking Service
+
+
+
+
+➤ System Design Key Concepts: 
+
+1. Scalability: https://lnkd.in/gpge_z76
+2. Latency vs Throughput: https://lnkd.in/g_amhAtN
+3. CAP Theorem: https://lnkd.in/g3hmVamx
+4. ACID Transactions: https://lnkd.in/gMe2JqaF
+5. Rate Limiting: https://lnkd.in/gWsTDR3m
+6. API Design: https://lnkd.in/ghYzrr8q
+7. Strong vs Eventual Consistency: https://lnkd.in/gJ-uXQXZ
+8. Distributed Tracing: https://lnkd.in/d6r5RdXG
+9. Synchronous vs. asynchronous communications: https://lnkd.in/gC3F2nvr
+10. Batch Processing vs Stream Processing: https://lnkd.in/g4_MzM4s
+11. Fault Tolerance: https://lnkd.in/dVJ6n3wA
+
+➤ System Design Building Blocks:
+
+1. Databases: https://lnkd.in/gti8gjpz
+2. Horizontal vs Vertical Scaling: https://lnkd.in/gAH2e9du
+3. Caching: https://lnkd.in/gC9piQbJ
+4. Distributed Caching: https://lnkd.in/g7WKydNg
+5. Load Balancing: https://lnkd.in/gQaa8sXK
+6. SQL vs NoSQL: https://lnkd.in/g3WC_yxn
+7. Database Scaling: https://lnkd.in/gAXpSyWQ
+8. Data Replication: https://lnkd.in/gVAJxTpS
+9. Data Redundancy: https://lnkd.in/gNN7TF7n
+10. Database Sharding: https://lnkd.in/gMqqc6x9
+11. Database Index's: https://lnkd.in/gCeshYVt
+12. Proxy Server: https://lnkd.in/gi8KnKS6
+13. WebSocket: https://lnkd.in/g76Gv2KQ
+14. API Gateway: https://lnkd.in/gnsJGJaM
+15. Message Queues: https://lnkd.in/gTzY6uk8
+
+➤ System Design Architectural Patterns:
+
+1. Event-Driven Architecture: https://lnkd.in/dp8CPvey 
+2. Client-Server Architecture: https://lnkd.in/dAARQYzq
+3. Serverless Architecture: https://lnkd.in/gQNAXKkb
+4. Microservices Architecture: https://lnkd.in/gFXUrz_T
+
+➤ Machine Coding Round and Low Level Design Problems:
+
+1. Design a Parking Lot: https://lnkd.in/dQaAuFd2
+2. Design Splitwise: https://lnkd.in/dF5fBnex
+3. Design Chess Validator: https://lnkd.in/dfAQHvN4
+4. Design a Distributed Queue | Kafka: https://lnkd.in/dQ6_B4_M
+5. Design Tic-Tac-Toe: https://lnkd.in/dFDApUBt
+
+Python Interview Questions and Answers 
+
+https://t.me/dsabooks/75
+
+Beginner's guide for DSA
+
+https://www.geeksforgeeks.org/the-ultimate-beginners-guide-for-dsa/amp/
+
+Cracking the coding interview FREE BOOK
+
+https://www.pdfdrive.com/cracking-the-coding-interview-189-programming-questions-and-solutions-d175292720.html
+
+DSA Interview Questions and Answers 
+
+https://t.me/crackingthecodinginterview/77
+
+Data Science Interview Questions and Answers 
+
+https://t.me/datasciencefun/958
+
+Java Interview Questions with Answers 
+
+https://t.me/Curiousprogrammer/106
+
+➤ System Design and Architecture (HLD):
+
+1. Design a Unique ID Generator Service
+2. Design a URL Shortening Service
+3. Design Whatsapp 
+4. Design Instagram/Twitter News Feed
+5. Design Search Autocomplete | Design Typeahead
+6. Design Zomato Restaurant Search | Design Proximity Service
